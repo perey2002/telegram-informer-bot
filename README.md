@@ -1,6 +1,4 @@
 # telegram-informer-bot
-![alt text](image.png)
-# telegram-informer-bot
 ![alt text](Informer.png)
 # telegram-informer-bot
 English
@@ -91,3 +89,5 @@ Ce script Python sert de bot Telegram pour envoyer des messages ou des fichiers 
    - Exemple : `python telegram_file_sender.py /chemin/vers/votre/fichier`
    - Assurez-vous que le chemin du fichier est correct et que le fichier existe.
    - Le script enverra le fichier spécifié au groupe Telegram désigné.
+# telegram-informer-bot
+![alt text](image.png)
