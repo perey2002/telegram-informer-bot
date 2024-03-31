@@ -1,4 +1,6 @@
 # telegram-informer-bot
+![alt text](image.png)
+# telegram-informer-bot
 ![alt text](Informer.png)
 # telegram-informer-bot
 English
