@@ -1,5 +1,5 @@
 # telegram-informer-bot
-![alt text](Informer.png)
+![alt text](img/Informer.png)
 # telegram-informer-bot
 English
 **Telegram Informer Bot**
@@ -90,4 +90,4 @@ Ce script Python sert de bot Telegram pour envoyer des messages ou des fichiers 
    - Assurez-vous que le chemin du fichier est correct et que le fichier existe.
    - Le script enverra le fichier spécifié au groupe Telegram désigné.
 # telegram-informer-bot
-![alt text](image.png)
+![alt text](img/image.png)
