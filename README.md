@@ -29,7 +29,7 @@ This Python script serves as a Telegram bot to send messages or files to a speci
    - Ensure the file path is correct and the file exists.
    - The script will send the specified file to the designated Telegram group.
 
-Español
+
 # telegram-informer-bot
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png" alt="ES FLAG" width="150">
 **Bot Informador de Telegram**
@@ -59,8 +59,6 @@ Este script en Python sirve como un bot de Telegram para enviar mensajes o archi
    - Asegúrate de que la ruta del archivo sea correcta y que el archivo exista.
    - El script enviará el archivo especificado al grupo de Telegram designado.
 
-
-Français
 # telegram-informer-bot
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png" alt="FR FLAG" width="150">
 **Bot Informateur de Telegram**
