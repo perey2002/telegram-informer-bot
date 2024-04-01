@@ -1,8 +1,7 @@
 # telegram-informer-bot
-![alt text](img/Informer.png)
+![UK FLAG](https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Great_Britain_%28English_version%29.png =150x)
 
 # telegram-informer-bot
-
 English
 ![EN FLAG](img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Great_Britain_%28English_version%29.png" alt="Great Britain Flag" width="150")
 **Telegram Informer Bot**
@@ -32,9 +31,9 @@ This Python script serves as a Telegram bot to send messages or files to a speci
    - Ensure the file path is correct and the file exists.
    - The script will send the specified file to the designated Telegram group.
 
-Español
 # telegram-informer-bot
-![ES FLAG](<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png" alt="Spain Flag" width="150">)
+Español
+![ES FLAG](https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png =150x)
 **Bot Informador de Telegram**
 
 Este script en Python sirve como un bot de Telegram para enviar mensajes o archivos a un grupo específico en Telegram utilizando la API de Telegram.
@@ -62,11 +61,10 @@ Este script en Python sirve como un bot de Telegram para enviar mensajes o archi
    - Asegúrate de que la ruta del archivo sea correcta y que el archivo exista.
    - El script enviará el archivo especificado al grupo de Telegram designado.
 
-
-Français
 # telegram-informer-bot
-![FR FLAG](<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png" alt="France Flag" width="150">)
-**Bot Informateur de Telegram**
+Français
+![FR FLAG](https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png =150x)
+**Bot Informador de Telegram**
 
 Ce script Python sert de bot Telegram pour envoyer des messages ou des fichiers à un groupe spécifique sur Telegram en utilisant l'API de Telegram.
 
